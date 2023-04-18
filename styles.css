@@ -165,6 +165,7 @@ li {
     flex-direction: row;
     border-radius: 8px;
     gap: 280px;
+    justify-content: space-between;
 }
 
 .bottom-sign {
